@@ -22,6 +22,8 @@ What's being covered?
 
 Day 1: Foundational Models & Prompt Engineering - Explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. Get trained with the art of prompt engineering for optimal LLM interaction.
 
+https://www.kaggle.com/code/johnkuanfintech/day-1-prompting/edit/run/206395326
+
 Day 2: Embeddings and Vector Stores/Databases - Learn about the conceptual underpinning of embeddings and vector databases, including embedding methods, vector search algorithms, and real-world applications with LLMs, as well as their tradeoffs.
 
 Day 3: Generative AI Agents - Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
