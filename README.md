@@ -26,6 +26,8 @@ https://www.kaggle.com/code/johnkuanfintech/day-1-prompting/edit/run/206395326
 
 Day 2: Embeddings and Vector Stores/Databases - Learn about the conceptual underpinning of embeddings and vector databases, including embedding methods, vector search algorithms, and real-world applications with LLMs, as well as their tradeoffs.
 
+https://www.kaggle.com/code/johnkuanfintech/day-2-document-q-a-with-rag/edit
+
 Day 3: Generative AI Agents - Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
 Day 4: Domain-Specific LLMs - Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
