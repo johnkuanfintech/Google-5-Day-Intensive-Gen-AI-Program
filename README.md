@@ -32,6 +32,9 @@ https://www.kaggle.com/code/johnkuanfintech/day-2-classifying-embeddings-with-ke
 
 Day 3: Generative AI Agents - Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
+https://www.kaggle.com/code/johnkuanfintech/day-3-function-calling-with-the-gemini-api/edit
+https://www.kaggle.com/code/johnkuanfintech/day-3-building-an-agent-with-langgraph/edit
+
 Day 4: Domain-Specific LLMs - Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
