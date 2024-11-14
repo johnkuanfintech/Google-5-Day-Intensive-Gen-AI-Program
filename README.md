@@ -40,4 +40,8 @@ https://www.kaggle.com/code/johnkuanfintech/day-3-building-an-agent-with-langgra
 
 Day 4: Domain-Specific LLMs - Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
+https://www.kaggle.com/code/johnkuanfintech/day-4-google-search-grounding-bbab37/edit
+
+https://www.kaggle.com/code/johnkuanfintech/day-4-fine-tuning-a-custom-model/edit
+
 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
