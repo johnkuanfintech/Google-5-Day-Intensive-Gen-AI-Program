@@ -45,3 +45,5 @@ https://www.kaggle.com/code/johnkuanfintech/day-4-google-search-grounding-bbab37
 https://www.kaggle.com/code/johnkuanfintech/day-4-fine-tuning-a-custom-model/edit
 
 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
