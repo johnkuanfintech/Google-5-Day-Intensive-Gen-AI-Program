@@ -2,6 +2,8 @@
 
 https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
+https://www.kaggle.com/learn-guide/5-day-genai#GenAI
+
 What is the 5-Day Generative AI Intensive?
 
 It’s a 5-day online course on November 11 - 15 designed to help you deeply understand some of the fundamental technologies and techniques behind Generative AI. Created by a team of Google’s ML researchers and engineers, this program includes both conceptual deep dives and hands-on coding examples so you can tackle new Gen AI projects with confidence.
@@ -24,6 +26,8 @@ Day 1: Foundational Models & Prompt Engineering - Explore the evolution of LLMs,
 
 https://www.kaggle.com/code/johnkuanfintech/day-1-prompting/edit/run/206395326
 
+https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=2
+
 Day 2: Embeddings and Vector Stores/Databases - Learn about the conceptual underpinning of embeddings and vector databases, including embedding methods, vector search algorithms, and real-world applications with LLMs, as well as their tradeoffs.
 
 https://www.kaggle.com/code/johnkuanfintech/day-2-document-q-a-with-rag/edit
@@ -32,11 +36,15 @@ https://www.kaggle.com/code/johnkuanfintech/day-2-embeddings-and-similarity-scor
 
 https://www.kaggle.com/code/johnkuanfintech/day-2-classifying-embeddings-with-keras/edit
 
+https://www.youtube.com/watch?v=86GZC56rQCc&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4
+
 Day 3: Generative AI Agents - Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
 https://www.kaggle.com/code/johnkuanfintech/day-3-function-calling-with-the-gemini-api/edit
 
 https://www.kaggle.com/code/johnkuanfintech/day-3-building-an-agent-with-langgraph/edit
+
+https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4
 
 Day 4: Domain-Specific LLMs - Delve into the creation and application of specialized LLMs like SecLM and Med-PaLM, with insights from the researchers who built them.
 
@@ -44,8 +52,16 @@ https://www.kaggle.com/code/johnkuanfintech/day-4-google-search-grounding-bbab37
 
 https://www.kaggle.com/code/johnkuanfintech/day-4-fine-tuning-a-custom-model/edit
 
+https://www.youtube.com/watch?v=odvuLMJWUSU&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=5
+
 Day 5: MLOps for Generative AI - Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+https://www.youtube.com/watch?v=uCFW0i9xrBc
+
+Bonus Material
 
 https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack
 
 https://www.kaggle.com/code/johnkuanfintech/bonus-day-extra-api-features-to-try/edit
+
+https://www.kaggle.com/code/markishere/bonus-day-extra-api-features-to-try/
