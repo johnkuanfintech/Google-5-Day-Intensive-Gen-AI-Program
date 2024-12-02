@@ -1,5 +1,7 @@
 # Google-5-Day-Intensive-Gen-AI-Program
 
+https://www.linkedin.com/posts/neilhoyne_google-lifeatgoogle-ai-activity-7259574791966253056-mBrK?utm_source=share&utm_medium=member_desktop
+
 https://rsvp.withgoogle.com/events/google-generative-ai-intensive
 
 https://www.kaggle.com/learn-guide/5-day-genai#GenAI
